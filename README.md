@@ -77,7 +77,7 @@ elastic-sharding是基于zookeeper实现的动态分配分片的组件，只需�
                 });
 ```
 
-#### 一下是一个可以执行的样例
+#### 以下是一个可以执行的样例
 ```
 public class ElasticSharingDemo {
 
